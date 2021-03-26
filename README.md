@@ -9,5 +9,5 @@
 - 😄 Pronouns: ... He/Him/His
 - ⚡ Fun fact: ... I wrote my first text-based adventure game when I was 14yo!
 
-Languages & technologies --
-- HTML CSS Javascript React Redux Node.js PostgreSQL Python
+Languages & technologies -
+- HTML | CSS | Javascript | React | Redux | Node.js | PostgreSQL | Python
