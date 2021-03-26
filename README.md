@@ -10,4 +10,4 @@
 - ⚡ Fun fact: ... I wrote my first text-based adventure game when I was 14yo!
 
 Languages & technologies --
-HTML CSS Javascript React Redux Node.js GraphQL Python
+HTML CSS Javascript React Redux Node.js PostgreSQL Python
