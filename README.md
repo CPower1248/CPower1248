@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... Community platform moderation implementation
 - 👯 I’m looking to collaborate on ... Moderation standards/best practices
 - 🤔 I’m looking for help with ... AWS
-- 💬 Ask me about ... Anything Final Fantasy ⚔️ ⚡ ❄️ 🌊 
+- 💬 Ask me about ... anything Final Fantasy ⚔️ ⚡ ❄️ 🌊 
 - 📫 How to reach me: ... CPower1248@gmail.com
 - 😄 Pronouns: ... He/Him/His
 - ⚡ Fun fact: ... I wrote my first text-based adventure game when I was 14yo!
