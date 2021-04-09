@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... anything Final Fantasy ⚔️ ⚡ ❄️ 🌊 
 - 📫 How to reach me: ... CPower1248@gmail.com
-- 😄 Pronouns: ... He/Him/His
+- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I wrote my first text-based adventure game when I was 14yo!
 
 Languages & technologies -
